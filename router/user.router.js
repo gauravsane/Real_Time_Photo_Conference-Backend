@@ -1,6 +1,7 @@
 const express = require('express');
 const { adddata, getUsers } = require('../control/user.control');
 
+
 // Create a router
 const router = express.Router();
 
